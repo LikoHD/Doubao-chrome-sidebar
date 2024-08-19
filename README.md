@@ -1,4 +1,4 @@
-# 豆包聊天 Chrome 扩展
+# 豆包聊天 Chrome sidebar 扩展
 
 ## 简介
 
