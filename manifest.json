@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Doubao",
+  "version": "1.0",
+  "description": "打开豆包聊天侧边栏",
+  "permissions": ["sidePanel"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "打开豆包聊天"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "icons": {
+    "48": "icon48.png"
+  }
+}
