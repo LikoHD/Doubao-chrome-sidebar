@@ -9,7 +9,7 @@
 - 在Chrome浏览器侧边栏中打开豆包聊天
 - 一键快速访问豆包聊天界面
 
-![image](https://github.com/user-attachments/assets/e48dac71-380c-4f39-96b9-5aff5bb479c2)
+![image](https://github.com/user-attachments/assets/65a95c2a-deb6-4725-9fec-84426b9a5ee2)
 
 
 ## 安装
